@@ -1,5 +1,5 @@
 # HMLR_Computer_Vision
-HM Land Registry mini-challenge on Computer Vision
+HM Land Registry mini-challenge on Land-Marking Detection and Segmentation using Deep Learning
 
 The HMLR_Computer_Vision.ipynb notebook can be used to view the entire steps and their results for the project.
 
